@@ -5,6 +5,8 @@ Example end-to-end build, test, and deploy pipelines for Kubernetes, using Googl
 
 If you are new to Google Cloud Build, we recommend you start by visiting the [manage resources page](https://console.cloud.google.com/cloud-resource-manager) in the Cloud Console, [learn how to enable billing](https://cloud.google.com/billing/docs/how-to/modify-project), [enable the Cloud Build API](https://console.cloud.google.com/flows/enableapi?apiid=cloudbuild.googleapis.com), and [install the Cloud SDK](https://cloud.google.com/sdk/docs/). You may also wish to review the [Quickstart for Go](https://cloud.google.com/cloud-build/docs/quickstart-go).
 
+
+dsf
 ## Continuous integration testing
 
 Google Cloud Build supports continuous integration testing, with a test running automatically every time a Pull Request is created or updated in GitHub.
